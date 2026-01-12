@@ -1,8 +1,8 @@
+import SurveyForm from "./components/SurveyForm";
+
 function App() {
   return (
-    <>
-      <div className="text-red-400 text-5xl underline">Hello world</div>
-    </>
+    <SurveyForm />
   );
 }
 
